@@ -1,0 +1,17 @@
+#include <unistd.h>
+#include <stdio.h>
+
+void ft_print_numbers(void)
+{
+    char num = '0';
+    while(num <= '9')
+    {
+        write(1,&num,1);
+        num++;
+    }
+}
+
+int main() 
+{
+    ft_print_numbers();
+}
