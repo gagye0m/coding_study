@@ -6,12 +6,12 @@ int main ()
     int length = 0, sum=0;
     char arr[100]={0,};
     scanf("%d",&length);
-    
+    scanf("%s",arr);
+
     for(int idx=0; idx<length; idx++)
     {
-        scanf("%c",&arr[idx]); 
-        sum = sum + arr[idx];
+        sum = sum + arr[idx]-48;
     }
 
-    printf("%c",sum);
+    printf("%d",sum);
 }
