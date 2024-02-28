@@ -26,7 +26,7 @@ void func_find_wrong_and_well(char *pstr2, int * parr, int len)//함수를 통�
         }
     }
 
-    if(distinguish<len) // 적다면? 알파벳이 아닌 것이 섞여있다는 얘기
+    if(distinguish!=len) // 적다면? 알파벳이 아닌 것이 섞여있다는 얘기
     {
         printf("wrong");
         exit(0); //이거 써도 되나..?
