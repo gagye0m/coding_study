@@ -2,13 +2,15 @@
 #include <stdlib.h> //exit() 쓰기 위해서 불러옴
 //배열길이 26으로 설정한 코드
 
-void func_find_len(char * pstr1, int * len) // 받은 문자열 길이 구하는 함수
+int func_find_len(char * pstr1) // 받은 문자열 길이 구하는 함수
 {
+    int len =0;
     for(int i1=0; pstr1[i1]!=0; i1++)
     {
-        *len+=1; // 포인터가 가리키는 변수의 값을 1씩 증가
+        len+=1; // 포인터가 가리키는 변수의 값을 1씩 증가
         //*len++; // 포인터가 가리키는 위치가 변경되지만 해당 위치의 값을 변경하지는 않음. 그래서 *len이 가리키는 값은 변경되지 않고, 포인터의 위치만 변경
     }
+    return len;
 }
 
 void func_find_wrong_and_well(char *pstr2, int * parr, int len)//함수를 통과시켜서 오류인지 아닌지 확인하는 코드
@@ -87,7 +89,7 @@ int main()
             //   a  b  c  d  e  f  g  h  i  j  k  l  m  n  o  p  q  r  s  t  u  v  w  x  y  z
     scanf("%s",str);
     
-    func_find_len(str, &length); //길이코드
+    length = func_find_len(str); //길이코드
     func_find_wrong_and_well(str,arr,length);//알파벳말고 다른거 있으면 종료하는 코드
     func_investigate_sum(str,arr,length,&sum); // 없는 알파벳 총합 출력하기
     func_print_str(str,arr); // 없는 알파벳 출력

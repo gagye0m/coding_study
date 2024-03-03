@@ -1,5 +1,6 @@
 #include <stdio.h>
- 
+//shift연산자를 이용해서 생각해보기
+
 void divide (int n) //12
 {
     int arr[100]={0,};

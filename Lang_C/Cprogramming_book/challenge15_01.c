@@ -2,24 +2,24 @@
 
 void odd_number(int *parr, int len)//홀수
 {
-    printf("짝수출력: ");
-    for(int i=0 ; i<len ; i++)
-    {
-        if(parr[i] %2 == 0)
-        {
-            printf("%d,",parr[i]);
-        }
-    }
-}
-
-void even_number(int *parr, int len)//짝수
-{
     printf("홀수출력: ");
     for(int i2=0 ; i2<len ; i2++)
     {
         if(parr[i2] % 2 != 0)
         {
             printf("%d,",parr[i2]);
+        }
+    }
+}
+
+void even_number(int *parr, int len)//짝수
+{
+    printf("짝수출력: ");
+    for(int i=0 ; i<len ; i++)
+    {
+        if(parr[i] %2 == 0)
+        {
+            printf("%d,",parr[i]);
         }
     }
 }
