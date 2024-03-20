@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Data File\\Coding\\Lang_C\\SecurityFact\\4_education\\task_function\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70682C4C-E391-4550-96D1-F185034E4E49}|task_function\\task_function.vcxproj|D:\\Data File\\Coding\\Lang_C\\SecurityFact\\4_education\\task_function\\task_function\\menu.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70682C4C-E391-4550-96D1-F185034E4E49}|task_function\\task_function.vcxproj|solutionrelative:task_function\\menu.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "menu.c",
+              "DocumentMoniker": "D:\\Data File\\Coding\\Lang_C\\SecurityFact\\4_education\\task_function\\task_function\\menu.c",
+              "RelativeDocumentMoniker": "task_function\\menu.c",
+              "ToolTip": "D:\\Data File\\Coding\\Lang_C\\SecurityFact\\4_education\\task_function\\task_function\\menu.c",
+              "RelativeToolTip": "task_function\\menu.c",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-20T05:27:12.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
