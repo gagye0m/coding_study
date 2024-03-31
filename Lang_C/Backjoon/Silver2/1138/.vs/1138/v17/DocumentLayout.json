@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Data File\\Coding\\Lang_C\\Backjoon\\Silver2\\1138\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2944AFED-112D-4951-A4CF-9E1813353AFA}|1138\\1138.vcxproj|D:\\Data File\\Coding\\Lang_C\\Backjoon\\Silver2\\1138\\1138\\1138.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2944AFED-112D-4951-A4CF-9E1813353AFA}|1138\\1138.vcxproj|solutionrelative:1138\\1138.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1138.c",
+              "DocumentMoniker": "D:\\Data File\\Coding\\Lang_C\\Backjoon\\Silver2\\1138\\1138\\1138.c",
+              "RelativeDocumentMoniker": "1138\\1138.c",
+              "ToolTip": "D:\\Data File\\Coding\\Lang_C\\Backjoon\\Silver2\\1138\\1138\\1138.c",
+              "RelativeToolTip": "1138\\1138.c",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-29T14:43:46.78Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

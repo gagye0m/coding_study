@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Data File\\Coding\\Lang_C\\Backjoon\\Bronze2\\2675\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9EB7F78-30E0-4B0C-85A6-F9881DFB9ED1}|2675\\2675.vcxproj|D:\\Data File\\Coding\\Lang_C\\Backjoon\\Bronze2\\2675\\2675\\2675.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9EB7F78-30E0-4B0C-85A6-F9881DFB9ED1}|2675\\2675.vcxproj|solutionrelative:2675\\2675.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2675.c",
+              "DocumentMoniker": "D:\\Data File\\Coding\\Lang_C\\Backjoon\\Bronze2\\2675\\2675\\2675.c",
+              "RelativeDocumentMoniker": "2675\\2675.c",
+              "ToolTip": "D:\\Data File\\Coding\\Lang_C\\Backjoon\\Bronze2\\2675\\2675\\2675.c",
+              "RelativeToolTip": "2675\\2675.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-30T15:58:57.507Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
